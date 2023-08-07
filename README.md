@@ -22,7 +22,7 @@
 	<img width="8%" style="padding:5px"  src="https://img.icons8.com/?size=512&id=wPohyHO_qO1a&format=png"/>
 	 <img width="8%" style="padding.5px"  src="https://img.icons8.com/fluency/48/000000/flask.png"/>
 	 <img width="8%" style="padding.5px"  src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v1.png"/>
-	
+	 <img width="8%" style="padding.5px"  src="https://img.icons8.com/?size=512&id=fG5Tnj4ARIoI&format=png"/>
 	
 
   # 🏆 GitHub Profile Trophy:
