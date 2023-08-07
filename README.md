@@ -9,16 +9,17 @@
 
  # - 📄 Resume: [My Resume](https://drive.google.com/file/d/1DKcFmODI7SG-ycmExXC6rhov-7gkijU3/view?usp=drive_link)
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> Connect with me <img src='https://icons8.com/icon/GiHNxwe2ZmsA/connect' width="100px"> </h2>
 
 <p align="left">
-<a href="https://twitter.com/akb6406" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=119014&format=png" alt="akb6406" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akb6406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akb6406" height="30" width="40" /></a>
+<a href="https://twitter.com/akb6406" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=13963&format=png" alt="akb6406" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akb6406" target="blank"><img align="center" src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin" alt="akb6406" height="30" width="40" /></a>
 <!-- <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/16327184/gajendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16327184/gajendra" height="30" width="40" /></a> -->
-<a href="https://instagram.com/akb6406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akb6406" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/akb6406" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="akb6406" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/akb6406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="akb6406" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/akb6406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akb6406" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/akb6406" target="blank"><img align="center" src="https://icons8.com/icon/wDGo581Ea5Nf/level-up-your-coding-skills-and-quickly-land-a-job" alt="akb6406" height="30" width="40" /></a>
+<a href="https://instagram.com/akb6406" target="blank"><img align="center" src="https://icons8.com/icon/Xy10Jcu1L2Su/instagram" alt="akb6406" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/akb6406" target="blank"><img align="center" src="https://icons8.com/icon/vAtJFm3hwtQw/codechef" alt="akb6406" height="30" width="40" /></a>
+<!-- <a href="https://codeforces.com/profile/akb6406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="akb6406" height="30" width="40" /></a> -->
+
 </p>
   
 # Programming Languages and Tools
