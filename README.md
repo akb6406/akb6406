@@ -10,7 +10,7 @@
  # - 📄 Resume: [My Resume](https://drive.google.com/file/d/1DKcFmODI7SG-ycmExXC6rhov-7gkijU3/view?usp=drive_link)
 
  # <h2> Connect with me <img src='https://img.icons8.com/?size=512&id=GiHNxwe2ZmsA&format=png' width="25px"> </h2>
-
+<h2>
 <p align="left">
 <a href="https://twitter.com/akb6406" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=13963&format=png" alt="akb6406" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akb6406" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" alt="akb6406" height="30" width="40" /></a>
@@ -21,6 +21,7 @@
 <!-- <a href="https://codeforces.com/profile/akb6406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="akb6406" height="30" width="40" /></a> -->
 
 </p>
+</h2>
   
 # Programming Languages and Tools
 
