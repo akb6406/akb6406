@@ -6,6 +6,9 @@
 - Currently practicing **MERN STACK DEVELOPMENT**
 - Willing to contribute more and more in **Open Source Projects**
  <br>
+
+ # - 📄 Resume: [My Resume](https://drive.google.com/file/d/1DKcFmODI7SG-ycmExXC6rhov-7gkijU3/view?usp=drive_link)
+
   
   
 # Programming Languages and Tools
