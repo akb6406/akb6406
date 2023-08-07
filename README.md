@@ -13,11 +13,11 @@
 
 <p align="left">
 <a href="https://twitter.com/akb6406" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=13963&format=png" alt="akb6406" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akb6406" target="blank"><img align="center" src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin" alt="akb6406" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akb6406" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" alt="akb6406" height="30" width="40" /></a>
 <!-- <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/16327184/gajendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16327184/gajendra" height="30" width="40" /></a> -->
-<a href="https://www.leetcode.com/akb6406" target="blank"><img align="center" src="https://icons8.com/icon/wDGo581Ea5Nf/level-up-your-coding-skills-and-quickly-land-a-job" alt="akb6406" height="30" width="40" /></a>
-<a href="https://instagram.com/akb6406" target="blank"><img align="center" src="https://icons8.com/icon/Xy10Jcu1L2Su/instagram" alt="akb6406" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/akb6406" target="blank"><img align="center" src="https://icons8.com/icon/vAtJFm3hwtQw/codechef" alt="akb6406" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/akb6406" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=wDGo581Ea5Nf&format=png" alt="akb6406" height="30" width="40" /></a>
+<a href="https://instagram.com/akb6406" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png" alt="akb6406" height="30" width="40" /></a>
+<!-- <a href="https://www.codechef.com/users/akb6406" target="blank"><img align="center" src="https://icons8.com/icon/vAtJFm3hwtQw/codechef" alt="akb6406" height="30" width="40" /></a> -->
 <!-- <a href="https://codeforces.com/profile/akb6406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="akb6406" height="30" width="40" /></a> -->
 
 </p>
