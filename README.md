@@ -1,6 +1,7 @@
 
 <!-- [![@ratnesh_maurya's Holopin board](https://holopin.me/ratnesh_maurya)](https://holopin.io/@ratnesh_maurya) -->
-# Hi there, I'm ANKIT KUMAR
+
+<h1 align="center">Hi, I'm Ankit ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px><h3 align="center">Software Developer with 1+ years of experience.</h3>
 - I'm  **Learner** | **Programmer** 
 - Currently practicing **MERN STACK DEVELOPMENT**
 - Willing to contribute more and more in **Open Source Projects**
