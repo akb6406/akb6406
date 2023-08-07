@@ -1,31 +1,70 @@
-<h1 align="center">Hi, I'm Ankit ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px><h3 align="center">Software Developer with 1+ years of experience.</h3>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=akb6406.akb6406) </h1>
+<!-- [![@ratnesh_maurya's Holopin board](https://holopin.me/ratnesh_maurya)](https://holopin.io/@ratnesh_maurya) -->
+# Hi there, I'm ANKIT KUMAR
+- I'm  **Learner** | **Programmer** 
+- Currently practicing **MERN STACK DEVELOPMENT**
+- Willing to contribute more and more in **Open Source Projects**
+ <br>
+  
+  
+# Programming Languages and Tools
 
-- 📄 Resume: [My Resume](https://drive.google.com/file/d/1DKcFmODI7SG-ycmExXC6rhov-7gkijU3/view?usp=drive_link)
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<p align="center">
+	<!-- <img width="8%" style="padding:5px" src="https://img.icons8.com/color/240/000000/c-plus-plus-logo.png"/> -->
+        <img width="8%" style="padding.5px"   src="https://img.icons8.com/color/144/000000/nodejs.png"/>
+        <img width="8%" style="padding.5px"   src="https://img.icons8.com/color/144/000000/express.png"/>
+        <img width="8%" style="padding.5px"   src="https://img.icons8.com/color/144/000000/mongodb.png"/>
+	<img width="8%" style="padding:5px" src="https://img.icons8.com/color/240/000000/javascript.png"/>
+	<img width="8%" style="padding.5px"  src="https://img.icons8.com/color/144/000000/visual-studio.png"/>
+	<img width="8%" style="padding.5px"  src="https://img.icons8.com/color/240/000000/java.png"/>
+	<img width="8%" style="padding.5px"  src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+	<img width="8%" style="padding:5px"  src="https://img.icons8.com/color/48/000000/c.png"/>
+	 <img width="8%" style="padding.5px"  src="https://img.icons8.com/fluency/48/000000/flask.png"/>
+	 <img width="8%" style="padding.5px"  src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v1.png"/>
+	
+	
 
-<p align="left">
-<a href="https://twitter.com/akb6406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akb6406" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akb6406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akb6406" height="30" width="40" /></a>
-<!-- <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/16327184/gajendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16327184/gajendra" height="30" width="40" /></a> -->
-<a href="https://instagram.com/akb6406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akb6406" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/akb6406" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="akb6406" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/akb6406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="akb6406" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/akb6406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akb6406" height="30" width="40" /></a>
+  # 🏆 GitHub Profile Trophy:
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=akb6406&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+# My GitHub Summary:
+<p align="center">
 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akb6406&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akb6406&theme=monokai)
+ </p>
 
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+		
+ # 📈 GitHub Activity Graph:
+ <p align="center">
+	<img src = "https://github-readme-streak-stats.herokuapp.com?user=akb6406&theme=monokai&ring=DD2727&fire=DD2727&dates=DD6227&sideNums=176FC5&sideLabels=1E90FF" alt="Abhijeet-Anand-01" /><br><br>
+
+	
+	
+
+ # 📈 Coding Profile:
+  <p align="center">
+<img src="https://leetcard.jacoblin.cool/akb6406?theme=dark&font=Poppins&ext=contest"><br><br>
+</p>
+
+ # 📈 GitHub Contribution Graph:
+ <p align="center">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akb6406&theme=monokai"/><br><br>
+
+ </p>
 
 
- ![github-contribution-grid-snake](https://user-images.githubusercontent.com/90142173/154796318-e529fdc7-2132-4ce7-8417-06b71cf02506.svg)
+ # Feel Free to Contact me.....
+<p align="centre">
+<a href="https://www.linkedin.com/in/akb6406/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+</p>
+# Profile views counter
 
-[
-![GitHub metrics](https://metrics.lecoq.io/akb6406)  ](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=akb6406&show_icons=true&count_private=true)  
+![Visitor Count](https://profile-counter.glitch.me/{akb6406}/count.svg)
+<a href="https://icons8.com/icon/40669/c++">
