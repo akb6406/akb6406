@@ -12,7 +12,7 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 <p align="left">
-<a href="https://twitter.com/akb6406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akb6406" height="30" width="40" /></a>
+<a href="https://twitter.com/akb6406" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=119014&format=png" alt="akb6406" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akb6406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akb6406" height="30" width="40" /></a>
 <!-- <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/16327184/gajendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16327184/gajendra" height="30" width="40" /></a> -->
 <a href="https://instagram.com/akb6406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akb6406" height="30" width="40" /></a>
