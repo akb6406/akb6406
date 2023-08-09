@@ -60,8 +60,9 @@
 		
  # 📈 GitHub Activity Graph:
  <p align="center">
-	<img src = "https://github-readme-streak-stats.herokuapp.com?user=akb6406&theme=monokai&ring=DD2727&fire=DD2727&dates=DD6227&sideNums=176FC5&sideLabels=1E90FF" alt="Abhijeet-Anand-01" /><br><br>
-
+<!-- 	<img src = "https://github-readme-streak-stats.herokuapp.com?user=akb6406&theme=monokai&ring=DD2727&fire=DD2727&dates=DD6227&sideNums=176FC5&sideLabels=1E90FF" alt="Abhijeet-Anand-01" /><br><br> -->
+	 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akb6406&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 	
 	
 
