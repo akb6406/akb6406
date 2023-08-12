@@ -7,7 +7,7 @@
 - Willing to contribute more and more in **Open Source Projects**
  <br>
 
- # - 📄 Resume: [My Resume](https://drive.google.com/file/d/1DKcFmODI7SG-ycmExXC6rhov-7gkijU3/view?usp=drive_link)
+ # - 📄 Resume: [My Resume](https://drive.google.com/file/d/1aKgIa1QRQFmrulDCpQJcLw8kabd54Od3/view?usp=drive_link)
 
  # <h2> Connect with me <img src='https://img.icons8.com/?size=512&id=GiHNxwe2ZmsA&format=png' width="30px">
 <p align="left">
