@@ -1,10 +1,21 @@
+<h1 align="center">Hi 👋, I'm Ankit</h1>
+<h3 align="center">~Software Developer with 1+ year Experience</h3>
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">
 
-<!-- [![@ratnesh_maurya's Holopin board](https://holopin.me/ratnesh_maurya)](https://holopin.io/@ratnesh_maurya) -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akb6406&label=Profile%20views&color=0e75b6&style=flat" alt="akb6406" /> </p>
+<br/>
+<h2 align="left"><b>🙋‍♂️ About Me</b></h2>
 
-# <h1 align="center">Hi, I'm Ankit ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px><h3 align="center">Software Developer with 1+ years of experience.</h3>
-- I'm  **Learner** | **Programmer** 
-- Currently practicing **MERN STACK DEVELOPMENT**
-- Willing to contribute more and more in **Open Source Projects**
+<!-- - 🔭 I’m currently working on **my portfolio** -->
+
+- 🌱 I’m currently learning **MERN Stack**
+
+- 👯 I’m looking to collaborate on **Open Source Projects**
+ 
+- 📫 How to reach me **akb6406@gmail.com**
+
+- 🏆 My Portfolio **https://linktr.ee/akb6406**
+  
  <br>
 
  # - 📄 Resume: [My Resume](https://drive.google.com/file/d/1aKgIa1QRQFmrulDCpQJcLw8kabd54Od3/view?usp=drive_link)
